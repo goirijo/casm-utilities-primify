@@ -1,0 +1,7 @@
+bin_PROGRAMS += _casmutils-primify
+
+_casmutils_primify_SOURCES=\
+						  plugins/casm-utilities-primify/primify.cpp
+
+_casmutils_primify_LDADD=\
+						libcasmutils.la
