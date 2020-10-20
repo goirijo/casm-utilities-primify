@@ -2,7 +2,6 @@
 #include "CLI/Validators.hpp"
 #include <CLI/CLI.hpp>
 #include <casmutils/definitions.hpp>
-#include <casmutils/handlers.hpp>
 #include <casmutils/xtal/structure.hpp>
 #include <casmutils/xtal/structure_tools.hpp>
 
